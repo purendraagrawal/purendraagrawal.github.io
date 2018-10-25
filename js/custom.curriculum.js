@@ -56,5 +56,5 @@ jQuery( document ).ready( function( $ ){
 	);
 
 	// Full background image
-	$( '.fx-backstretch' ).find( '.info' ).backstretch( 'http://www.kaiwa-projects.com/assets/img/backstretch.jpg' ); // Replace backstrech.jpg with your own image if needed
+	$( '.fx-backstretch' ).find( '.info' ).backstretch( './img/backstretch.jpg' ); // Replace backstrech.jpg with your own image if needed
 });
